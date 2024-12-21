@@ -1,0 +1,229 @@
+Using GPUs: [0, 1]
+Embeddings saved for all files
+---------------------- ReLU Mapper ----------------------
+Training with lr=1e-06
+0th training with lr=1e-06, begin_train_loss=6.045085, begin_val_loss=5.068295, final_train_loss=4.231848, final_val_loss=4.267355
+1th training with lr=1e-06, begin_train_loss=6.050540, begin_val_loss=5.065844, final_train_loss=4.233471, final_val_loss=4.269691
+2th training with lr=1e-06, begin_train_loss=6.041140, begin_val_loss=5.076709, final_train_loss=4.238172, final_val_loss=4.275339
+For lr=1e-06, loss function=MSE, begin_train_loss=6.045588, begin_val_loss=5.070282, final_train_loss=4.234497, final_val_loss=4.270795
+
+Training with lr=0.001
+0th training with lr=0.001, begin_train_loss=4.730630, begin_val_loss=4.416811, final_train_loss=3.833656, final_val_loss=3.878809
+1th training with lr=0.001, begin_train_loss=4.729815, begin_val_loss=4.420629, final_train_loss=3.841844, final_val_loss=3.906206
+2th training with lr=0.001, begin_train_loss=4.720132, begin_val_loss=4.423602, final_train_loss=3.782197, final_val_loss=3.818371
+For lr=0.001, loss function=MSE, begin_train_loss=4.726859, begin_val_loss=4.420347, final_train_loss=3.819232, final_val_loss=3.867795
+
+Training with lr=0.0005
+0th training with lr=0.0005, begin_train_loss=4.722318, begin_val_loss=4.462643, final_train_loss=3.711286, final_val_loss=3.812221
+1th training with lr=0.0005, begin_train_loss=4.733834, begin_val_loss=4.879490, final_train_loss=3.707159, final_val_loss=3.784550
+2th training with lr=0.0005, begin_train_loss=4.716054, begin_val_loss=4.569467, final_train_loss=3.712689, final_val_loss=3.883963
+For lr=0.0005, loss function=MSE, begin_train_loss=4.724944, begin_val_loss=4.724479, final_train_loss=3.709924, final_val_loss=3.834257
+
+Training with lr=0.0001
+0th training with lr=0.0001, begin_train_loss=4.754937, begin_val_loss=4.547420, final_train_loss=3.578626, final_val_loss=3.696879
+1th training with lr=0.0001, begin_train_loss=4.769915, begin_val_loss=4.787037, final_train_loss=3.585720, final_val_loss=3.684215
+2th training with lr=0.0001, begin_train_loss=4.755164, begin_val_loss=4.645269, final_train_loss=3.571614, final_val_loss=3.696877
+For lr=0.0001, loss function=MSE, begin_train_loss=4.760005, begin_val_loss=4.659909, final_train_loss=3.578653, final_val_loss=3.692657
+
+Training with lr=5e-05
+0th training with lr=5e-05, begin_train_loss=4.813606, begin_val_loss=4.622620, final_train_loss=3.594855, final_val_loss=3.845496
+1th training with lr=5e-05, begin_train_loss=4.816236, begin_val_loss=4.660844, final_train_loss=3.594085, final_val_loss=3.868169
+2th training with lr=5e-05, begin_train_loss=4.838633, begin_val_loss=4.681557, final_train_loss=3.600743, final_val_loss=3.735165
+For lr=5e-05, loss function=MSE, begin_train_loss=4.822825, begin_val_loss=4.655007, final_train_loss=3.596561, final_val_loss=3.816276
+
+Training with lr=1e-05
+0th training with lr=1e-05, begin_train_loss=5.023193, begin_val_loss=4.830185, final_train_loss=3.804397, final_val_loss=3.869759
+1th training with lr=1e-05, begin_train_loss=5.021424, begin_val_loss=4.834472, final_train_loss=3.802072, final_val_loss=3.927120
+2th training with lr=1e-05, begin_train_loss=5.028628, begin_val_loss=4.830216, final_train_loss=3.812751, final_val_loss=3.876566
+For lr=1e-05, loss function=MSE, begin_train_loss=5.028628, begin_val_loss=4.830216, final_train_loss=3.812751, final_val_loss=3.876566
+
+Training with lr=4.9999999999999996e-06
+0th training with lr=4.9999999999999996e-06, begin_train_loss=5.175009, begin_val_loss=4.889238, final_train_loss=3.934112, final_val_loss=4.009542
+1th training with lr=4.9999999999999996e-06, begin_train_loss=5.195690, begin_val_loss=4.890264, final_train_loss=3.936492, final_val_loss=3.992694
+2th training with lr=4.9999999999999996e-06, begin_train_loss=5.146668, begin_val_loss=4.887567, final_train_loss=3.927923, final_val_loss=4.111607
+For lr=4.9999999999999996e-06, loss function=MSE, begin_train_loss=5.172456, begin_val_loss=4.889023, final_train_loss=3.932842, final_val_loss=4.037947
+
+COS
+
+Training with lr=0.001
+0th training with lr=0.001, begin_train_loss=0.286056, begin_val_loss=0.279848, final_train_loss=0.251815, final_val_loss=0.254762
+1th training with lr=0.001, begin_train_loss=0.285961, begin_val_loss=0.287957, final_train_loss=0.251719, final_val_loss=0.254026
+2th training with lr=0.001, begin_train_loss=0.286217, begin_val_loss=0.279011, final_train_loss=0.253206, final_val_loss=0.263997
+For lr=0.001, loss function=Cosine, begin_train_loss=0.286217, begin_val_loss=0.279011, final_train_loss=0.253206, final_val_loss=0.263997
+
+Training with lr=0.0005
+0th training with lr=0.0005, begin_train_loss=0.286100, begin_val_loss=0.282457, final_train_loss=0.249939, final_val_loss=0.254020
+1th training with lr=0.0005, begin_train_loss=0.285613, begin_val_loss=0.277642, final_train_loss=0.249671, final_val_loss=0.253417
+2th training with lr=0.0005, begin_train_loss=0.286168, begin_val_loss=0.277898, final_train_loss=0.247582, final_val_loss=0.251271
+For lr=0.0005, loss function=Cosine, begin_train_loss=0.285960, begin_val_loss=0.279332, final_train_loss=0.249064, final_val_loss=0.252903
+
+Training with lr=0.0001
+0th training with lr=0.0001, begin_train_loss=0.286691, begin_val_loss=0.279125, final_train_loss=0.246036, final_val_loss=0.250466
+1th training with lr=0.0001, begin_train_loss=0.286788, begin_val_loss=0.279432, final_train_loss=0.244486, final_val_loss=0.250360
+2th training with lr=0.0001, begin_train_loss=0.286930, begin_val_loss=0.279544, final_train_loss=0.243840, final_val_loss=0.251067
+For lr=0.0001, loss function=Cosine, begin_train_loss=0.286803, begin_val_loss=0.279367, final_train_loss=0.244787, final_val_loss=0.250631
+
+Training with lr=5e-05
+0th training with lr=5e-05, begin_train_loss=0.287688, begin_val_loss=0.280827, final_train_loss=0.243328, final_val_loss=0.249605
+1th training with lr=5e-05, begin_train_loss=0.287695, begin_val_loss=0.281636, final_train_loss=0.242807, final_val_loss=0.250160
+2th training with lr=5e-05, begin_train_loss=0.287598, begin_val_loss=0.281651, final_train_loss=0.242901, final_val_loss=0.258473
+For lr=5e-05, loss function=Cosine, begin_train_loss=0.287660, begin_val_loss=0.281372, final_train_loss=0.243012, final_val_loss=0.252746
+
+Training with lr=1e-05
+0th training with lr=1e-05, begin_train_loss=0.290163, begin_val_loss=0.282436, final_train_loss=0.243422, final_val_loss=0.253211
+1th training with lr=1e-05, begin_train_loss=0.290653, begin_val_loss=0.283354, final_train_loss=0.243342, final_val_loss=0.251128
+2th training with lr=1e-05, begin_train_loss=0.290549, begin_val_loss=0.283230, final_train_loss=0.242988, final_val_loss=0.250044
+For lr=1e-05, loss function=Cosine, begin_train_loss=0.290455, begin_val_loss=0.283007, final_train_loss=0.243250, final_val_loss=0.251461
+
+Training with lr=4.9999999999999996e-06
+0th training with lr=4.9999999999999996e-06, begin_train_loss=0.294012, begin_val_loss=0.284287, final_train_loss=0.246904, final_val_loss=0.253653
+1th training with lr=4.9999999999999996e-06, begin_train_loss=0.295765, begin_val_loss=0.284227, final_train_loss=0.247154, final_val_loss=0.253439
+2th training with lr=4.9999999999999996e-06, begin_train_loss=0.293988, begin_val_loss=0.284465, final_train_loss=0.246696, final_val_loss=0.252852
+For lr=4.9999999999999996e-06, loss function=Cosine, begin_train_loss=0.294588, begin_val_loss=0.284326, final_train_loss=0.246918, final_val_loss=0.253315
+
+Training with lr=1e-05
+0th training with lr=1e-05, begin_train_loss=0.291028, begin_val_loss=0.283576, final_train_loss=0.241958, final_val_loss=0.252705
+1th training with lr=1e-05, begin_train_loss=0.290427, begin_val_loss=0.282737, final_train_loss=0.242019, final_val_loss=0.254915
+2th training with lr=1e-05, begin_train_loss=0.290331, begin_val_loss=0.282628, final_train_loss=0.242137, final_val_loss=0.253628
+For lr=1e-05, loss function=Cosine, begin_train_loss=0.290595, begin_val_loss=0.282980, final_train_loss=0.242038, final_val_loss=0.253749
+
+Training with lr=4.9999999999999996e-06
+0th training with lr=4.9999999999999996e-06, begin_train_loss=0.294766, begin_val_loss=0.284195, final_train_loss=0.245859, final_val_loss=0.258819
+1th training with lr=4.9999999999999996e-06, begin_train_loss=0.293778, begin_val_loss=0.283681, final_train_loss=0.245694, final_val_loss=0.254432
+2th training with lr=4.9999999999999996e-06, begin_train_loss=0.294295, begin_val_loss=0.283608, final_train_loss=0.245239, final_val_loss=0.253036
+For lr=4.9999999999999996e-06, loss function=Cosine, begin_train_loss=0.294280, begin_val_loss=0.283828, final_train_loss=0.245597, final_val_loss=0.255429
+
+---------------------- LeakyReLU Mapper ----------------------
+Training with lr=0.001
+0th training with lr=0.001, begin_train_loss=4.763450, begin_val_loss=4.479944, final_train_loss=3.716581, final_val_loss=3.792679
+1th training with lr=0.001, begin_train_loss=4.743707, begin_val_loss=4.623353, final_train_loss=3.863221, final_val_loss=4.013735
+2th training with lr=0.001, begin_train_loss=4.766387, begin_val_loss=4.486719, final_train_loss=3.792587, final_val_loss=3.905465
+For lr=0.001, loss function=MSE, begin_train_loss=4.757848, begin_val_loss=4.530006, final_train_loss=3.790796, final_val_loss=3.903960
+
+Training with lr=0.0005
+0th training with lr=0.0005, begin_train_loss=4.727487, begin_val_loss=4.440248, final_train_loss=3.702310, final_val_loss=3.761911
+1th training with lr=0.0005, begin_train_loss=4.745181, begin_val_loss=4.470274, final_train_loss=3.658498, final_val_loss=3.744648
+2th training with lr=0.0005, begin_train_loss=4.724571, begin_val_loss=4.440134, final_train_loss=3.662628, final_val_loss=3.775848
+For lr=0.0005, loss function=MSE, begin_train_loss=4.732413, begin_val_loss=4.450218, final_train_loss=3.674479, final_val_loss=3.760802
+
+Training with lr=0.0001
+0th training with lr=0.0001, begin_train_loss=4.746019, begin_val_loss=4.535453, final_train_loss=3.571943, final_val_loss=3.876359
+1th training with lr=0.0001, begin_train_loss=4.746016, begin_val_loss=4.505228, final_train_loss=3.602804, final_val_loss=3.710164
+2th training with lr=0.0001, begin_train_loss=4.740621, begin_val_loss=4.510440, final_train_loss=3.576541, final_val_loss=3.781314
+For lr=0.0001, loss function=MSE, begin_train_loss=4.744219, begin_val_loss=4.517040, final_train_loss=3.583763, final_val_loss=3.789279
+
+Training with lr=0.001
+0th training with lr=0.001, begin_train_loss=0.285855, begin_val_loss=0.277556, final_train_loss=0.245971, final_val_loss=0.250969
+1th training with lr=0.001, begin_train_loss=0.285881, begin_val_loss=0.276732, final_train_loss=0.245993, final_val_loss=0.250340
+2th training with lr=0.001, begin_train_loss=0.286074, begin_val_loss=0.277851, final_train_loss=0.244901, final_val_loss=0.252422
+For lr=0.001, loss function=Cosine, begin_train_loss=0.285937, begin_val_loss=0.277380, final_train_loss=0.245622, final_val_loss=0.251244
+
+Training with lr=0.0005
+0th training with lr=0.0005, begin_train_loss=0.285956, begin_val_loss=0.278200, final_train_loss=0.244535, final_val_loss=0.248513
+1th training with lr=0.0005, begin_train_loss=0.285748, begin_val_loss=0.283412, final_train_loss=0.243894, final_val_loss=0.250420
+2th training with lr=0.0005, begin_train_loss=0.286100, begin_val_loss=0.276603, final_train_loss=0.243910, final_val_loss=0.251284
+For lr=0.0005, loss function=Cosine, begin_train_loss=0.285935, begin_val_loss=0.279405, final_train_loss=0.244113, final_val_loss=0.250072
+
+Training with lr=5e-05
+0th training with lr=5e-05, begin_train_loss=4.802119, begin_val_loss=4.641734, final_train_loss=3.577692, final_val_loss=3.714853
+1th training with lr=5e-05, begin_train_loss=4.785217, begin_val_loss=4.929030, final_train_loss=3.588370, final_val_loss=3.708277
+2th training with lr=5e-05, begin_train_loss=4.798803, begin_val_loss=4.617476, final_train_loss=3.577973, final_val_loss=3.751220
+For lr=5e-05, loss function=MSE, begin_train_loss=4.792010, begin_val_loss=4.773253, final_train_loss=3.583172, final_val_loss=3.729749
+Training with lr=1e-05
+0th training with lr=1e-05, begin_train_loss=4.982075, begin_val_loss=4.828855, final_train_loss=3.755378, final_val_loss=3.832662
+1th training with lr=1e-05, begin_train_loss=4.985582, begin_val_loss=4.824720, final_train_loss=3.752984, final_val_loss=3.899344
+2th training with lr=1e-05, begin_train_loss=4.986633, begin_val_loss=4.824363, final_train_loss=3.749892, final_val_loss=3.826097
+For lr=1e-05, loss function=MSE, begin_train_loss=4.984763, begin_val_loss=4.825979, final_train_loss=3.752751, final_val_loss=3.852701
+
+Training with lr=4.9999999999999996e-06
+0th training with lr=4.9999999999999996e-06, begin_train_loss=5.077901, begin_val_loss=4.871863, final_train_loss=3.883025, final_val_loss=3.942587
+1th training with lr=4.9999999999999996e-06, begin_train_loss=5.107722, begin_val_loss=4.894432, final_train_loss=3.891894, final_val_loss=3.956003
+2th training with lr=4.9999999999999996e-06, begin_train_loss=5.120658, begin_val_loss=4.877890, final_train_loss=3.893507, final_val_loss=3.967335
+For lr=4.9999999999999996e-06, loss function=MSE, begin_train_loss=5.102094, begin_val_loss=4.881395, final_train_loss=3.889475, final_val_loss=3.955308
+
+Training with lr=5e-05
+0th training with lr=5e-05, begin_train_loss=0.287402, begin_val_loss=0.281159, final_train_loss=0.241615, final_val_loss=0.250133
+1th training with lr=5e-05, begin_train_loss=0.287386, begin_val_loss=0.281199, final_train_loss=0.241440, final_val_loss=0.250000
+2th training with lr=5e-05, begin_train_loss=0.287515, begin_val_loss=0.281740, final_train_loss=0.241740, final_val_loss=0.251121
+
+Training with lr=0.0001
+0th training with lr=0.0001, begin_train_loss=0.286550, begin_val_loss=0.279479, final_train_loss=0.242230, final_val_loss=0.248105
+1th training with lr=0.0001, begin_train_loss=0.286725, begin_val_loss=0.280141, final_train_loss=0.242340, final_val_loss=0.255380
+2th training with lr=0.0001, begin_train_loss=0.286352, begin_val_loss=0.280538, final_train_loss=0.242986, final_val_loss=0.248560
+For lr=0.0001, loss function=Cosine, begin_train_loss=0.286542, begin_val_loss=0.280053, final_train_loss=0.242519, final_val_loss=0.250682
+
+---------------------- Tanh Mapper ----------------------
+Training with lr=0.001
+0th training with lr=0.001, begin_train_loss=5.431436, begin_val_loss=5.448298, final_train_loss=5.428305, final_val_loss=5.427082
+1th training with lr=0.001, begin_train_loss=5.406647, begin_val_loss=5.525604, final_train_loss=5.430651, final_val_loss=5.499944
+2th training with lr=0.001, begin_train_loss=5.431431, begin_val_loss=5.461744, final_train_loss=5.429649, final_val_loss=5.513304
+For lr=0.001, loss function=MSE, begin_train_loss=5.423171, begin_val_loss=5.478549, final_train_loss=5.429535, final_val_loss=5.480110
+
+Training with lr=0.001
+0th training with lr=0.001, begin_train_loss=0.299675, begin_val_loss=0.293805, final_train_loss=0.284438, final_val_loss=0.282639
+1th training with lr=0.001, begin_train_loss=0.306358, begin_val_loss=0.304343, final_train_loss=0.304762, final_val_loss=0.303649
+2th training with lr=0.001, begin_train_loss=0.298810, begin_val_loss=0.294502, final_train_loss=0.286593, final_val_loss=0.286380
+For lr=0.001, loss function=Cosine, begin_train_loss=0.301615, begin_val_loss=0.297550, final_train_loss=0.291931, final_val_loss=0.290889
+
+
+Training with lr=0.0005
+0th training with lr=0.0005, begin_train_loss=5.102606, begin_val_loss=5.032495, final_train_loss=4.385204, final_val_loss=4.381172
+1th training with lr=0.0005, begin_train_loss=5.135312, begin_val_loss=5.075322, final_train_loss=5.380190, final_val_loss=5.401124
+2th training with lr=0.0005, begin_train_loss=5.077369, begin_val_loss=5.003954, final_train_loss=5.377056, final_val_loss=5.397296
+For lr=0.0005, loss function=MSE, begin_train_loss=5.105096, begin_val_loss=5.037257, final_train_loss=5.047483, final_val_loss=5.059864
+
+
+Training with lr=0.0005
+0th training with lr=0.0005, begin_train_loss=0.294740, begin_val_loss=0.288629, final_train_loss=0.277689, final_val_loss=0.273497
+1th training with lr=0.0005, begin_train_loss=0.293078, begin_val_loss=0.289570, final_train_loss=0.275970, final_val_loss=0.276232
+2th training with lr=0.0005, begin_train_loss=0.296087, begin_val_loss=0.289848, final_train_loss=0.278158, final_val_loss=0.274822
+For lr=0.0005, loss function=Cosine, begin_train_loss=0.294635, begin_val_loss=0.289349, final_train_loss=0.277273, final_val_loss=0.274850
+
+Training with lr=0.0001
+0th training with lr=0.0001, begin_train_loss=4.787819, begin_val_loss=4.609204, final_train_loss=3.639009, final_val_loss=3.773054
+1th training with lr=0.0001, begin_train_loss=4.804649, begin_val_loss=4.583653, final_train_loss=3.651862, final_val_loss=3.761534
+2th training with lr=0.0001, begin_train_loss=4.788442, begin_val_loss=4.573389, final_train_loss=3.653924, final_val_loss=3.889401
+For lr=0.0001, loss function=MSE, begin_train_loss=4.793636, begin_val_loss=4.588749, final_train_loss=3.648265, final_val_loss=3.807996
+
+Training with lr=0.0001
+0th training with lr=0.0001, begin_train_loss=0.287040, begin_val_loss=0.280434, final_train_loss=0.252788, final_val_loss=0.255653
+1th training with lr=0.0001, begin_train_loss=0.287065, begin_val_loss=0.280321, final_train_loss=0.252244, final_val_loss=0.253369
+2th training with lr=0.0001, begin_train_loss=0.287064, begin_val_loss=0.283541, final_train_loss=0.251827, final_val_loss=0.257265
+For lr=0.0001, loss function=Cosine, begin_train_loss=0.287056, begin_val_loss=0.281432, final_train_loss=0.252286, final_val_loss=0.255429
+Training with lr=5e-05
+
+Training with lr=5e-05
+0th training with lr=5e-05, begin_train_loss=4.834659, begin_val_loss=4.612648, final_train_loss=3.533940, final_val_loss=4.123354
+1th training with lr=5e-05, begin_train_loss=4.827506, begin_val_loss=4.614100, final_train_loss=3.539068, final_val_loss=3.931899
+2th training with lr=5e-05, begin_train_loss=4.826424, begin_val_loss=4.691045, final_train_loss=3.546269, final_val_loss=3.693647
+For lr=5e-05, loss function=MSE, begin_train_loss=4.829529, begin_val_loss=4.639264, final_train_loss=3.539759, final_val_loss=3.916300
+
+Training with lr=5e-05
+0th training with lr=5e-05, begin_train_loss=0.286888, begin_val_loss=0.280574, final_train_loss=0.241581, final_val_loss=0.249729
+1th training with lr=5e-05, begin_train_loss=0.286447, begin_val_loss=0.281265, final_train_loss=0.241593, final_val_loss=0.249461
+2th training with lr=5e-05, begin_train_loss=0.286742, begin_val_loss=0.280509, final_train_loss=0.242009, final_val_loss=0.251490
+For lr=5e-05, loss function=Cosine, begin_train_loss=0.286692, begin_val_loss=0.280783, final_train_loss=0.241728, final_val_loss=0.250227
+
+Training with lr=1e-05
+0th training with lr=1e-05, begin_train_loss=5.125069, begin_val_loss=4.835758, final_train_loss=3.749090, final_val_loss=3.930636
+1th training with lr=1e-05, begin_train_loss=5.124878, begin_val_loss=4.840075, final_train_loss=3.746061, final_val_loss=3.991454
+2th training with lr=1e-05, begin_train_loss=5.137265, begin_val_loss=4.838004, final_train_loss=3.745385, final_val_loss=3.870567
+For lr=1e-05, loss function=MSE, begin_train_loss=5.129071, begin_val_loss=4.837946, final_train_loss=3.746845, final_val_loss=3.930886
+
+Training with lr=1e-05
+0th training with lr=1e-05, begin_train_loss=0.289200, begin_val_loss=0.282436, final_train_loss=0.245397, final_val_loss=0.258656
+1th training with lr=1e-05, begin_train_loss=0.288868, begin_val_loss=0.281738, final_train_loss=0.245623, final_val_loss=0.252769
+2th training with lr=1e-05, begin_train_loss=0.288923, begin_val_loss=0.282549, final_train_loss=0.245547, final_val_loss=0.253774
+For lr=1e-05, loss function=Cosine, begin_train_loss=0.288997, begin_val_loss=0.282241, final_train_loss=0.245522, final_val_loss=0.255066
+
+Training with lr=4.9999999999999996e-06
+0th training with lr=4.9999999999999996e-06, begin_train_loss=5.387809, begin_val_loss=4.900420, final_train_loss=3.855498, final_val_loss=3.958419
+1th training with lr=4.9999999999999996e-06, begin_train_loss=5.384272, begin_val_loss=4.899710, final_train_loss=3.850238, final_val_loss=3.915913
+2th training with lr=4.9999999999999996e-06, begin_train_loss=5.429339, begin_val_loss=4.907970, final_train_loss=3.853687, final_val_loss=3.976414
+For lr=4.9999999999999996e-06, loss function=MSE, begin_train_loss=5.400474, begin_val_loss=4.902700, final_train_loss=3.853141, final_val_loss=3.950249
+
+Training with lr=4.9999999999999996e-06
+0th training with lr=4.9999999999999996e-06, begin_train_loss=0.291118, begin_val_loss=0.283403, final_train_loss=0.248814, final_val_loss=0.255073
+1th training with lr=4.9999999999999996e-06, begin_train_loss=0.291486, begin_val_loss=0.283723, final_train_loss=0.248801, final_val_loss=0.260040
+2th training with lr=4.9999999999999996e-06, begin_train_loss=0.291293, begin_val_loss=0.283581, final_train_loss=0.248944, final_val_loss=0.259797
+For lr=4.9999999999999996e-06, loss function=Cosine, begin_train_loss=0.291299, begin_val_loss=0.283569, final_train_loss=0.248853, final_val_loss=0.258303
